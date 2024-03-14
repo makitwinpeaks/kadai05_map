@@ -1,0 +1,2 @@
+# kadai05_map
+BingMapのAPIを用いた製品原材料産地を参照できるアプリ
